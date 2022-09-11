@@ -5,7 +5,7 @@
 using namespace std;
 
 const double pi = 3.1415926;
-
+//Объем цилиндра
 int Vcilindr(int r,int h) {
     int v = pi * pow(r, 2) * h;
     return v;
