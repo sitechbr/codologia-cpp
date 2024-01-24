@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Queue.dir/Queue_autogen/mocs_compilation.cpp.o CMakeFiles/Queue.dir/main.cpp.o -o Queue  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.10 

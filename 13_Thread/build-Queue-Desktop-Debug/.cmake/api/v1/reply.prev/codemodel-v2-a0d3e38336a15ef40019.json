@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cc060b9c952ba3d9bf87.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Queue",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Queue-Debug-ef02646dcaff846ca6fd.json",
+					"name" : "Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Queue_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Queue_autogen-Debug-16aabddb36181625dbc8.json",
+					"name" : "Queue_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug",
+		"source" : "/home/kali/dev/codologia-cpp/13_Thread/Queue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

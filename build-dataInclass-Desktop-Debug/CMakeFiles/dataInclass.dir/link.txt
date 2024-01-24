@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/dataInclass.dir/dataInclass_autogen/mocs_compilation.cpp.o CMakeFiles/dataInclass.dir/main.cpp.o -o dataInclass  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.10 

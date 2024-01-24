@@ -1,0 +1,8 @@
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/Queue.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/install.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/install/local.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/kali/dev/codologia-cpp/13_Thread/build-Queue-Desktop-Debug/CMakeFiles/Queue_autogen.dir

@@ -1,0 +1,8 @@
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/dataInclass.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/install.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/install/local.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/kali/dev/codologia-cpp/build-dataInclass-Desktop-Debug/CMakeFiles/dataInclass_autogen.dir
